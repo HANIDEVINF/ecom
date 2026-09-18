@@ -1,0 +1,6 @@
+{
+  "name": "AURA Luxury Commerce & Retail OS",
+  "description": "Multi-industry freelance commerce and business OS suite featuring 5 tailored client websites and owner desktop logiciels for Glasses, Clothes, Gourmet Food, Electronics, and Mobile Accessories with inventory manipulation, money analytics, and PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
